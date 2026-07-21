@@ -14,6 +14,7 @@ body{
 .main{
     width: 75vw;
     height: 75vh;
+    max-width:600px;
     border: none;
     display: flex;
     border-radius: 20px;
